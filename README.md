@@ -32,5 +32,5 @@ Material Design\
 Create Shimmer Effect\
 ViewPager2\
 Create Contextual Action Mode\
-Bottom Sheet\
+Bottom Sheet
 
